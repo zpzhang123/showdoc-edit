@@ -1,7 +1,7 @@
 # showdoc-edit
 Automatically generate class
 # 如何启动
-运行 RunScanDemo.main
+运行 RunScanDemo.main 这是一个java程序
 
 # 如何使用
 ## 命令
